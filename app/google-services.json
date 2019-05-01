@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548947513627",
+    "firebase_url": "https://mobiplayer-45ed2.firebaseio.com",
+    "project_id": "mobiplayer-45ed2",
+    "storage_bucket": "mobiplayer-45ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548947513627:android:0ecc45664a7a6c5c",
+        "android_client_info": {
+          "package_name": "com.mobiplayer.mobiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548947513627-nmr8jdkdcod6o2u45fuqtkcbs3639tc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-sMGmQ9NT9bUpo2zgQZs9hZQ-lyuKp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548947513627-nmr8jdkdcod6o2u45fuqtkcbs3639tc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

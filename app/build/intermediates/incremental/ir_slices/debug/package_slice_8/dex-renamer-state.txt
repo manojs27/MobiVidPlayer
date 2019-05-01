@@ -1,0 +1,4 @@
+#Wed May 01 13:48:18 IST 2019
+base.0=/Users/h151452/Desktop/MobiVidPlayer/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

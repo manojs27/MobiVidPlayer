@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobiplayer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign up</string>
+    <string name="login">log in</string>
+</resources>
